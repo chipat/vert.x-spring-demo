@@ -1,0 +1,7 @@
+-classpath '/Users/softpsy/workspace/vert.x-spring-demo/build/classes/main:/Users/softpsy/workspace/vert.x-spring-demo/build/resources/main:/Users/softpsy/.gradle/caches/artifacts-24/filestore/org.springframework/spring-context/3.2.4.RELEASE/jar/4e6d5edcaeeed6cb332b90fbe3713f003d28188c/spring-context-3.2.4.RELEASE.jar'
+-d '/Users/softpsy/workspace/vert.x-spring-demo/build/docs/javadoc'
+-doctitle 'vert.x-spring-demo 1.0.0-final API'
+-quiet 
+-windowtitle 'vert.x-spring-demo 1.0.0-final API'
+'/Users/softpsy/workspace/vert.x-spring-demo/src/main/java/com/mycompany/myproject/SomeBean.java'
+'/Users/softpsy/workspace/vert.x-spring-demo/src/main/java/com/mycompany/myproject/SpringBoot.java'
